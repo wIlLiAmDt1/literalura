@@ -35,7 +35,7 @@ public class Libreria {
             var menu = """
                     
                     |***************************************************|
-                    |*****       BIENVENIDO A LIBRERIA GOOD       ******|
+                    |*****    BIENVENIDO A BIBLIOTECA SONRISAS    ******|
                     |***************************************************|
                     
                     1 - Agregar Libro por Nombre
